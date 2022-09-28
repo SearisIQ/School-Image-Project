@@ -29,7 +29,7 @@ To open the Image:
 
 ## Author
 
-- Creator/Editor [@Searis](https://www.github.com/SearisIQ)
+- Creator/Editor [Fritz](https://www.github.com/SearisIQ)
 
 ## Contributors
 
