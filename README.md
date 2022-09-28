@@ -5,13 +5,6 @@ The original intent of this project was to create a nice wallpaper for our Smart
 Please use accordingly
 
 
-## Contributing
-
-Ideas are always welcome!
-
-See `contributing.md` for ways to get started.
-
-
 ## FAQ
 
 #### How can I use this Image?
