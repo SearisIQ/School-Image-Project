@@ -23,7 +23,15 @@ To open the Image:
 ```bash
   Download the file - "School Picture Project"
   Open the folder - "Drafts"
-  Open the desired draft folder
+  Open the desired Image
+```
+
+To open the latest Image:
+
+```bash
+  Download the file - "School Picture Project"
+  Open the folder - "Latest"
+  Open the Image located in the Folder
 ```
 
 
